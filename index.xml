@@ -2,141 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>WaterDrops</title>
-        <link>http://localhost:1313/</link>
+        <link>https://les-2024.github.io/</link>
         <description>Recent content on WaterDrops</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Lesliee202X</copyright>
-        <lastBuildDate>Fri, 21 Mar 2025 01:00:44 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>0321 </title>
-        <link>http://localhost:1313/p/0321/</link>
-        <pubDate>Fri, 21 Mar 2025 01:00:44 +0800</pubDate>
+        <copyright>Leslie202X</copyright>
+        <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://les-2024.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About Waterdrop</title>
+        <link>https://les-2024.github.io/about-waterdrop/</link>
+        <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/0321/</guid>
-        <description></description>
+        <guid>https://les-2024.github.io/about-waterdrop/</guid>
+        <description>&lt;p&gt;For every second and thought in my LIFE.&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>浮出水面</title>
-        <link>http://localhost:1313/p/%E6%B5%AE%E5%87%BA%E6%B0%B4%E9%9D%A2/</link>
+        <link>https://les-2024.github.io/p/%E6%B5%AE%E5%87%BA%E6%B0%B4%E9%9D%A2/</link>
         <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E6%B5%AE%E5%87%BA%E6%B0%B4%E9%9D%A2/</guid>
-        <description>&lt;img src="http://localhost:1313/p/%E6%B5%AE%E5%87%BA%E6%B0%B4%E9%9D%A2/%E6%B5%B7.jpg" alt="Featured image of post 浮出水面" /&gt;&lt;H1&gt; 浮出水面/&lt;H1&gt; 
+        <guid>https://les-2024.github.io/p/%E6%B5%AE%E5%87%BA%E6%B0%B4%E9%9D%A2/</guid>
+        <description>&lt;img src="https://les-2024.github.io/p/%E6%B5%AE%E5%87%BA%E6%B0%B4%E9%9D%A2/%E6%B5%B7.jpg" alt="Featured image of post 浮出水面" /&gt;&lt;H1&gt; 浮出水面&lt;H1&gt; 
 &lt;h2 id=&#34;&#34;&gt;
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;睡觉&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/h2&gt;&lt;p&gt;睡觉&lt;/p&gt;
 &lt;h5 id=&#34;&#34;&gt;
 &lt;/h5&gt;&lt;p&gt;过年在家的近十天，日均睡眠10.5小时，复工后十天，日均睡眠缩减到8.5小时，本周缩减到6.5小时。与此同时，超长通勤的朋友每晚十点半准时消失睡觉，在年轻人里一顶一了，留我一人深夜漫游。&lt;/p&gt;
 &lt;h2 id=&#34;&#34;&gt;
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;头发&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/h2&gt;&lt;p&gt;头发&lt;/p&gt;
 &lt;h5 id=&#34;&#34;&gt;
 &lt;/h5&gt;&lt;p&gt;年后回来头发很长了，顾着在正月，也忙得无暇顾及，总是没有剪，看显示屏总扎眼。直到有天用皮筋扎起来，才像新人类一样学会了使用工具。又养成了奇怪的仪式感，只有在工位连轴转时才扎上，一下班就解开，中午去食堂也要解开。皮筋是个小开关。&lt;/p&gt;
 &lt;h2 id=&#34;&#34;&gt;
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;表情包&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/h2&gt;&lt;p&gt;表情包&lt;/p&gt;
 &lt;h5 id=&#34;&#34;&gt;
 &lt;/h5&gt;&lt;p&gt;有时候觉得我们一家四口聊天好像打游击，尤其我哥和我。明明两个人多思多想，但都默契地从不交流，只偶尔兜不住了冒出只言片语。除了家里事儿通气儿，剩下的常常是两个人不知道从哪里搜刮来的表情包。消息列表偶尔弹出一只孤单的表情包。偶尔不孤单，那就是很多个表情包。&lt;/p&gt;
 &lt;h2 id=&#34;&#34;&gt;
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;教育&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/h2&gt;&lt;p&gt;教育&lt;/p&gt;
 &lt;h5 id=&#34;&#34;&gt;
 &lt;/h5&gt;&lt;p&gt;晚上给小孩儿上课，结束了和孩儿妈妈聊天，才知道教育机构已经发展出周中每天放学后2h看学生写作业的业务。第一反应，对广大家长挺好一外包业务，很有利健康。又反应，搁冬天，小孩可能早上天黑出门了，晚上天黑才回家，夕阳都看不见。可这才小学。想起自己第一次实习，因为看不到夕阳，感知不到时间很难受，后来就离职了。想起朋友转发的老师讣告，说老师让她不要总呆在学校，要去顾村花园看看樱花。&lt;/p&gt;
 &lt;h2 id=&#34;&#34;&gt;
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;做饭&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/h2&gt;&lt;p&gt;做饭&lt;/p&gt;
 &lt;h5 id=&#34;&#34;&gt;
 &lt;/h5&gt;&lt;p&gt;买了卤料包卤肉，到了才知道还需要炒糖色煮辣味配调料。站在厨房里拿着A4纸看得眉头紧锁，好像看论文一样难以理解。焯水的锅里姜片煮得翻滚，玻璃上哈满白气，兜里手机消息炸翻天。没关系，都和我没关系，世界离我太遥远了。编辑间隙去看了眼卤锅，不晓得怎么回事，干成了大火收汁。掌握火候总是一件很难的事。&lt;/p&gt;
 &lt;h2 id=&#34;&#34;&gt;
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;吃饭&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/h2&gt;&lt;p&gt;吃饭&lt;/p&gt;
 &lt;h5 id=&#34;&#34;&gt;
 &lt;/h5&gt;&lt;p&gt;从担心地坚持到自然地习惯中午一个人去旦苑吃饭，戴耳机听着博客，斜穿校区，一个人吃完再回来，路过光草时停下来晒晒太阳。就这样希望晴天多一点。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://les-2024.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://les-2024.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
-        <title>About</title>
-        <link>http://localhost:1313/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Links</title>
-        <link>http://localhost:1313/links/</link>
+        <link>https://les-2024.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+        <guid>https://les-2024.github.io/links/</guid>
+        <description>&lt;p&gt;备份一些好玩的外链:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ai&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;人工智能域名界天花板，曾跳转到ChatGPT、Gemini、xAI，猜猜现在会跳转到哪里？&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ai.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
+&lt;/div&gt;</description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://les-2024.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://les-2024.github.io/search/</guid>
         <description></description>
         </item>
         
